@@ -1,0 +1,22 @@
+{
+  "name": "refactoring-javascript",
+  "version": "1.0.0",
+  "description": "Refactoring JavaScript by Evan Burchard (O'Reilly). Copyright 2017 O'Reilly Media, 978-1-491-96492-7.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choiseunghyeon/Refactoring-JavaScript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choiseunghyeon/Refactoring-JavaScript/issues"
+  },
+  "homepage": "https://github.com/choiseunghyeon/Refactoring-JavaScript#readme",
+  "dependencies": {
+    "wish": "^1.0.1"
+  }
+}
