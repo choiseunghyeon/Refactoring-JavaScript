@@ -36,3 +36,7 @@ Refactoring JavaScript by Evan Burchard (O'Reilly). Copyright 2017 O'Reilly Medi
   테스트, 리팩토링, 품질 향상, 적은 양의 기술 부채는 시간 확보에 도움을 준다.
 - 피드백 루프가 엄격해진다.  
   테스트 코드가 없다면 코드가 작동한다고 가정하거나 수동으로 확인할 수 밖에 없다. 이러한 수동 테스트는 비용이 많이 든다. 만약, 테스트 코드가 있다면 이 피드백을 몇 초로 줄일 수 있다.
+
+## Mocha
+
+- watcher 기능 mocha -w <file name>
