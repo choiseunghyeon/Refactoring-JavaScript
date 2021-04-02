@@ -21,6 +21,8 @@ Refactoring JavaScript by Evan Burchard (O'Reilly). Copyright 2017 O'Reilly Medi
 - 목업(mockup)과 스텁(stub)  
   테스트를 모의로 대체하여 기능을 직접 행사하는 것을 피하는 두 가지 방법  
   둘의 차이는 목업은 어설션(테스트의 통과 및 실패 부분)을 생성하고 스텁은 생성하지 않는다.
+- 테스트 하네스(test harness) - 112p.  
+  테스트를 하여 코드 실행
 
 ## 테스트 이점
 
